@@ -1,0 +1,1 @@
+Resultados gráficos dos modelos.
